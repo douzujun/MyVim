@@ -8,4 +8,4 @@
 
 问题：[YouCompleteMe/third_party/ycmd/third_party/cregex" does not appear to contain CMakeLists.txt.](https://www.cnblogs.com/douzujun/p/10629051.html)
 
-![](https://img2018.cnblogs.com/blog/817161/201904/817161-20190405194434634-738942184.png)
+<img src='https://img2018.cnblogs.com/blog/817161/201904/817161-20190405194434634-738942184.png'>
